@@ -29,6 +29,9 @@
   <ItemGroup>
     <ClInclude Include="precomp.h" />
   </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
   <PropertyGroup>
     <ProjectGuid>{2C2BEEF4-9333-4D05-B12A-1905CBF112F9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
